@@ -1,6 +1,6 @@
 # Go Learn
 
-Learning Go.
+A brief introduction for composing and consuming a RESTful api using Go.
 
 source of tutorial: https://www.youtube.com/watch?v=hRR-Zy1H-Yo
 
